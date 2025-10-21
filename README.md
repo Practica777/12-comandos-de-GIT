@@ -44,4 +44,6 @@ Este comando nos permite eliminar una rama (ojo, esto se debe hacer desde la ram
 
 Este comando permite subir tu repositorio local a un repositorio remoto, ya sea GitHub, Gitlab, etc...
 
+12. git commit -am ""
 
+Nos permite subir el archivo al área de preparación y comitearlo al mismo tiempo.
