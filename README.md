@@ -32,6 +32,16 @@ funciona reemplazando el último commit por uno nuevo que combina los cambios qu
 
 Este comando nos permite crear ramas.
 
+9. git merge
 
+Esta rama nos permite unir las ramas desde la rama principal main/master
+
+10. git branch -d <nombre-rama>
+
+Este comando nos permite eliminar una rama (ojo, esto se debe hacer desde la rama principal main/master)
+
+11. git push
+
+Este comando permite subir tu repositorio local a un repositorio remoto, ya sea GitHub, Gitlab, etc...
 
 
