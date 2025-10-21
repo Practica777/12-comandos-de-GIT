@@ -30,3 +30,8 @@ funciona reemplazando el último commit por uno nuevo que combina los cambios qu
 
 8. git checkout -b <nombre/rama>
 
+Este comando nos permite crear ramas.
+
+
+
+
